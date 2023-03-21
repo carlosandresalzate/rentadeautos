@@ -1,0 +1,34 @@
+/* CSS Document */
+
+
+.index-header {
+    background-image: url("../images/fotoRenta_01.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.filter {
+    -webkit-backdrop-filter: blur(18px);
+    backdrop-filter: blur(18px);
+}
+
+.dropdown-menu {
+    left: -30px;
+}
+
+.icon-width {
+    font-size: 7em;
+}
+
+input[type="datetime-local"] {
+    width: 250px;
+}
+input[type="datetime-local"]::before {
+    content: "";
+    position: absolute;
+    width: 40px;
+    height: 30px;
+    background-color: white;
+    right: 0;
+}
