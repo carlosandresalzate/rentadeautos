@@ -1,0 +1,26 @@
+{
+  "name": "rentadeautos.github.io",
+  "version": "1.0.0",
+  "description": "Proyecto final para el curso de Diseño Web con Adobe Dreamweaver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosandresalzate/rentadeautos.github.io.git"
+  },
+  "keywords": [
+    "dreamweaver",
+    "html",
+    "css",
+    "bootstrap",
+    "Sena"
+  ],
+  "author": "Carlos Andres Alzate",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/carlosandresalzate/rentadeautos.github.io/issues"
+  },
+  "homepage": "https://github.com/carlosandresalzate/rentadeautos.github.io#readme"
+}
