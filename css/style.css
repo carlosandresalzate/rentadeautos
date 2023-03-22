@@ -32,3 +32,8 @@ input[type="datetime-local"]::before {
     background-color: white;
     right: 0;
 }
+
+.box-opacity {
+    opacity: 0.8;
+    background-color: rgba(249,249,249,0.50);
+}
